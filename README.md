@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ritik 👋
 
-<!--
-**Ritik-Nagpure/Ritik-Nagpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MERN Stack Developer | Data Analyst
 
-Here are some ideas to get you started:
+- 🚀 Building scalable web apps using React, Node.js, and MongoDB  
+- 🐍 Experienced with Python scripting & data automation  
+- 📊 Passionate about data analysis and reporting  
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/ritik-nagpure-2677151a1)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack  
+React | Node.js | Express | MongoDB | Python | SQL | Git  
+
+---
+
+### 📂 Featured Projects  
+- [Vastrum](https://github.com/Ritik-Nagpure/Vastrum) - E-commerce platform  
+- [Arya](https://github.com/Ritik-Nagpure/Arya) - AI Assistant  
+
+---
+
+Thanks for visiting my profile!  
