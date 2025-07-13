@@ -56,28 +56,20 @@
 
 <hr>
 
-<div align="center"> 
-    <h2> 📝 Featured Projects  </h2>
-- [Vastrum](https://github.com/Ritik-Nagpure/Vastrum) - E-commerce platform  
-- [Arya](https://github.com/Ritik-Nagpure/Arya) - AI Assistant  
 
-<div align="center" style="height:300px; width:250px; background: url('./Banner/logo.png')">
-  <img  alt="Project Banner" />
-
-  <h3>Vastrum</h3>
-
-  <p>A stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
-
-  <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
-
-  <p><strong>Status:</strong> 🚧 In Progress</p>
-
-  <a href="https://github.com/yourusername/Vastrum" target="_blank">🔗 View Repository</a>
-
+<h2 align="center"> 📝 Featured Projects  </h2>
+<div align="center">
+<div align="center" style="height:300px; width:250px; background:url('./Banner/logo.png'); border-radius:30px; padding:5px;">
+    <blocksection style=" ">
+        <h3>Vastrum</h3>
+        <p>A stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
+        <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
+        <p><strong>Status:</strong> 🚧 In Progress</p>
+        <a href="https://github.com/yourusername/Vastrum" target="_blank">🔗 View Repository</a>
+    </blocksection>
+</div>
 </div>
 
-
-</div>
 
 <hr>
 
