@@ -1,60 +1,53 @@
-
-## MERN Stack Developer | Data Analyst
-
-- 🚀 Building scalable web apps using React, Node.js, and MongoDB  
-- 🐍 Experienced with Python scripting & data automation  
-- 📊 Passionate about data analysis and reporting  
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/ritik-nagpure-2677151a1)  
-
-
-
-### 📂 Featured Projects  
-- [Vastrum](https://github.com/Ritik-Nagpure/Vastrum) - E-commerce platform  
-- [Arya](https://github.com/Ritik-Nagpure/Arya) - AI Assistant  
-
----
-
-
-
 <div>
-</div>
-<img align="right" src="">
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ritik-Nagpure.Ritik-Nagpure" />
+<div>
 
+<br>
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ritik-Nagpure.Ritik-Nagpure" />
-
-<h1 align="center">
+<h1 align="center" style="margin:2px, padding: 10px, overflow:True">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=40&duration=1000&pause=2000&color=AF36F7&width=435&lines=Hi+!+%F0%9F%91%8B+Welcome+To+my+Profile.;I'm+Ritik+Nagpure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=30&duration=1000&pause=4000&color=AF36F7&center=true&vCenter=true&width=435&lines=Hi+!+%F0%9F%91%8B+Welcome+To+my+Profile.;I'm+Ritik+Nagpure" alt="Typing SVG" />
     </a>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">
+A passionate software developer from India</h3>
 
-<br/>
 
 <div align="center">
+
+
+- 🔭 I’m currently working on **a marketplace**
+- 🌱 I’m currently learning **Docker, Three JS, AWS**
+- 🚀 Building scalable web apps using React, Node.js, and MongoDB  
+- 🐍 Experienced with Python scripting & data automation  
+- 📊 Passionate about data analysis and reporting  
+
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
- 
+ <br>
+ <br>
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:ritiknagpure@gmail.com">
+    <img src="./contact-icon/gmail.png" target="_blank" class="contact-logo"/>
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/ritik-nagpure-2677151a1/" target="_blank">
+    <img src="./contact-icon/linkedin.png" target="_blank" class="contact-logo">
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://x.com/PseudoRick" target="_blank">
+     <img src="./contact-icon/x.png" target="_blank" class="contact-logo" /> 
+  </a>
+<a href="https://www.instagram.com/quanto__" target="_blank">
+    <img src="./contact-icon/instagram.png" target="_blank" class="contact-logo" />
+  </a>
+<a href="https://ritik-nagpure.github.io/Portfolio/" target="_blank">
+    <img src="./contact-icon/portfolio.png" target="_blank" class="contact-logo" />
   </a>
 </div>
 
@@ -63,8 +56,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,javascript,typescript,react,next,redux,nodejs,express,tensorflow,threejs" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,postgresql,mysql,redis,docker,kubernetes,jenkins,git,github,vscode,pycharm,kafka," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,javascript,typescript,react,next,redux,nodejs,express,tensorflow,d3,threejs" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,python,mongodb,postgresql,mysql,redis,docker,kubernetes,jenkins,git,github,vscode,pycharm,kafka," /><br>
 </div>
 
 <br/>
@@ -91,7 +84,16 @@
 
 <br/><br/>
 
-<hr/>
+
+<hr>
+
+### 📂 Featured Projects  
+- [Vastrum](https://github.com/Ritik-Nagpure/Vastrum) - E-commerce platform  
+- [Arya](https://github.com/Ritik-Nagpure/Arya) - AI Assistant  
+
+
+<hr>
+
 
 <br/>
 
@@ -108,5 +110,11 @@ Thanks for visiting my profile!
 <style>
 .bg{
     color: #bb05f2ff
+}
+.contact-logo{
+    width:45px;
+    height:45px;
+    margin: 2px;
+    padding: 1px;
 }
 </style>
