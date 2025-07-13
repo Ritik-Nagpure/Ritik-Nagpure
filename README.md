@@ -54,24 +54,42 @@
 </div>
 
 
-<hr>
+
 
 
 <h2 align="center"> 📝 Featured Projects  </h2>
 <div align="center">
-<div align="center" style="height:300px; width:250px; background:url('./Banner/logo.png'); border-radius:30px; padding:5px;">
+<div align="center" style="height:300px; width:250px; background:#333333; border-radius:30px; padding:5px; margin:4px;">
     <blocksection style=" ">
         <h3>Vastrum</h3>
-        <p>A stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
+        <p>One stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
         <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
         <p><strong>Status:</strong> 🚧 In Progress</p>
         <a href="https://github.com/yourusername/Vastrum" target="_blank">🔗 View Repository</a>
     </blocksection>
 </div>
+<div align="center" style="height:300px; width:250px; background:#333333; border-radius:30px; padding:5px; margin:4px;">
+    <blocksection style=" ">
+        <h3>Arya</h3>
+        <p>An Ai tool with multiple usage like chat, analyze and keep track on tasks behind the back</p>
+        <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
+        <p><strong>Status:</strong> 🚧 In Progress</p>
+        <a href="https://github.com/yourusername/Arya" target="_blank">🔗 View Repository</a>
+    </blocksection>
+</div>
+<div align="center" style="height:300px; width:250px; background:#333333; border-radius:30px; padding:5px; margin:4px;">
+    <blocksection style=" ">
+        <h3>Sarvum</h3>
+        <p>Complete solution to eveyday task. An handy tool to update and analyze every aspect of task,</p>
+        <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
+        <p><strong>Status:</strong> 🚧 In Progress</p>
+        <a href="https://github.com/yourusername/Sarvum" target="_blank">🔗 View Repository</a>
+    </blocksection>
+</div>
 </div>
 
 
-<hr>
+
 
 
 <br>
@@ -108,7 +126,7 @@
     <img src="https://skillicons.dev/icons?i=aws,bootstrap,python,mongodb,postgresql,mysql,redis,docker,kubernetes,jenkins,git,github,vscode,pycharm,kafka," /><br>
 </div>
 
-<hr>
+
 <br>
 <div align="center">
 <a href='https://ko-fi.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
