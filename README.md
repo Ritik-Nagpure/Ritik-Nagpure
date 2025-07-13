@@ -18,6 +18,12 @@ React | Node.js | Express | MongoDB | Python | SQL | Git
 - [Vastrum](https://github.com/Ritik-Nagpure/Vastrum) - E-commerce platform  
 - [Arya](https://github.com/Ritik-Nagpure/Arya) - AI Assistant  
 
+<marquee>
+
+</marquee>
+<section>
 ---
 
 Thanks for visiting my profile!  
+
+
