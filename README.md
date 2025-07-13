@@ -5,8 +5,6 @@
 <h1 align="center" style="margin:2px; padding: 5px; overflow:True">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=40&duration=4000&color=AF36F7&center=true&vCenter=true&multiline=false&pause=1000&width=600&height=100&lines=HI+!+%F0%9F%91%8B+I'm+Ritik+Nagpure;Welcome+To+my+Profile." alt="Typing SVG" /></a>
 </h1>
-<br>
-
 <h2 align="center">
     A passionate software developer from India
 </h2>
