@@ -58,9 +58,9 @@
 
 
 <h2 align="center"> 📝 Featured Projects  </h2>
-<div align="center">
-<div align="center" style="height:300px; width:250px; background:#333333; border-radius:30px; padding:5px; margin:4px;">
-    <blocksection style=" ">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap">
+<div style="height:300px; width:250px; background:#333333; border-radius:30px; padding:20px; margin:4px;">
+    <blocksection  align="center" style=" ">
         <h3>Vastrum</h3>
         <p>One stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
         <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
@@ -68,8 +68,8 @@
         <a href="https://github.com/yourusername/Vastrum" target="_blank">🔗 View Repository</a>
     </blocksection>
 </div>
-<div align="center" style="height:300px; width:250px; background:#333333; border-radius:30px; padding:5px; margin:4px;">
-    <blocksection style=" ">
+<div style="height:300px; width:250px; background:#333333; border-radius:30px; padding:20px; margin:4px;">
+    <blocksection  align="center" style=" ">
         <h3>Arya</h3>
         <p>An Ai tool with multiple usage like chat, analyze and keep track on tasks behind the back</p>
         <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
@@ -77,8 +77,8 @@
         <a href="https://github.com/yourusername/Arya" target="_blank">🔗 View Repository</a>
     </blocksection>
 </div>
-<div align="center" style="height:300px; width:250px; background:#333333; border-radius:30px; padding:5px; margin:4px;">
-    <blocksection style=" ">
+<div style="height:300px; width:250px; background:#333333; border-radius:30px; padding:20px; margin:4px;">
+    <blocksection  align="center" style=" ">
         <h3>Sarvum</h3>
         <p>Complete solution to eveyday task. An handy tool to update and analyze every aspect of task,</p>
         <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
@@ -86,7 +86,8 @@
         <a href="https://github.com/yourusername/Sarvum" target="_blank">🔗 View Repository</a>
     </blocksection>
 </div>
-</div>
+</div> 
+</div> 
 
 
 
