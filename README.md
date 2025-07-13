@@ -59,7 +59,7 @@
 
 <h2 align="center"> 📝 Featured Projects  </h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="250" height="300">
       <h2>🚀 Vastrum</h2>
@@ -93,7 +93,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritik-Nagpure/Ritik-Nagpure/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="./dist/snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -103,10 +103,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ritik-Nagpure&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ritik-Nagpure&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ritik-Nagpure&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ritik-Nagpure&theme=jolly&border_radius=30&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
+<br>
+<br>
+  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ritik-Nagpure&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=30" alt="readme stats" />
+
+<br>
+  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ritik-Nagpure&hide=HTML&langs_count=8&layout=compact&theme=jolly&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br>
