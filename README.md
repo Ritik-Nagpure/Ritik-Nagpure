@@ -35,19 +35,19 @@ A passionate software developer from India</h3>
  <br>
 <div align="center"> 
   <a href="mailto:ritiknagpure@gmail.com">
-    <img src="./contact-icon/gmail.png" target="_blank" class="contact-logo"/>
+    <img src="./contact-icon/gmail.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px"/>
   </a>
   <a href="https://www.linkedin.com/in/ritik-nagpure-2677151a1/" target="_blank">
-    <img src="./contact-icon/linkedin.png" target="_blank" class="contact-logo">
+    <img src="./contact-icon/linkedin.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px">
   </a>
   <a href="https://x.com/PseudoRick" target="_blank">
-     <img src="./contact-icon/x.png" target="_blank" class="contact-logo" /> 
+     <img src="./contact-icon/x.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px" /> 
   </a>
 <a href="https://www.instagram.com/quanto__" target="_blank">
-    <img src="./contact-icon/instagram.png" target="_blank" class="contact-logo" />
+    <img src="./contact-icon/instagram.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px" />
   </a>
 <a href="https://ritik-nagpure.github.io/Portfolio/" target="_blank">
-    <img src="./contact-icon/portfolio.png" target="_blank" class="contact-logo" />
+    <img src="./contact-icon/portfolio.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px" />
   </a>
 </div>
 
@@ -112,9 +112,6 @@ Thanks for visiting my profile!
     color: #bb05f2ff
 }
 .contact-logo{
-    width:45px;
-    height:45px;
-    margin: 2px;
-    padding: 1px;
+    "width:45px,    height:45px;    margin: 2px,    padding: 1px"
 }
 </style>
