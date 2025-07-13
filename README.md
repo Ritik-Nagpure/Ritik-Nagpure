@@ -26,51 +26,52 @@
 
 <div align="center"> 
   <a href="mailto:ritiknagpure@gmail.com">
-    <img src="./contact-icon/gmail.png" target="_blank" style="width:45px; height:45px; margin: 2px; padding: 1px"/>
+    <img src="./contact-icon/gmail.png" target="_blank" style="width:35px; height:35px; margin: 2px; padding: 1px"/>
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://www.linkedin.com/in/ritik-nagpure-2677151a1/" target="_blank">
-    <img src="./contact-icon/linkedin.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;    padding: 1px">
+    <img src="./contact-icon/linkedin.png" target="_blank" style="width:35px;    height:35px;    margin: 2px;    padding: 1px">
   </a>
     &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://x.com/PseudoRick" target="_blank">
-     <img src="./contact-icon/x.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;    padding: 1px" /> 
+     <img src="./contact-icon/x.png" target="_blank" style="width:35px;    height:35px;    margin: 2px;    padding: 1px" /> 
   </a>
     &nbsp;
   &nbsp;
   &nbsp;
 <a href="https://www.instagram.com/quanto__" target="_blank">
-    <img src="./contact-icon/instagram.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;    padding: 1px" />
+    <img src="./contact-icon/instagram.png" target="_blank" style="width:35px;    height:35px;    margin: 2px;    padding: 1px" />
   </a>
     &nbsp;
   &nbsp;
   &nbsp;
 <a href="https://ritik-nagpure.github.io/Portfolio/" target="_blank">
-    <img src="./contact-icon/portfolio.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;padding: 1px" />
+    <img src="./contact-icon/portfolio.png" target="_blank" style="width:35px;    height:35px;    margin: 2px;padding: 1px" />
   </a>
 </div>
 
 
 
 
-
-<h2 align="center"> 📝 Featured Projects  </h2>
+<br>
+<br>
+<h2 align="center"> 📝 Featured Projects 📝</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="250" height="300">
-      <h2>🚀 Vastrum</h2>
+      <h2>👚 Vastrum </h2>
       <p>One stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
       <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
       <p><strong>Status:</strong> 🚧 In Progress</p>
       <a href="https://github.com/Ritik-Nagpure/Vastrum" target="_blank">🔗 View Repository</a>
     </td>
     <td align="center" width="250">
-      <h2>🧠 Arya</h2>
+      <h2>🤖 Arya</h2>
       <p>An AI tool with multiple usage like chat, analyze and keep track on tasks behind the back.</p>
       <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
       <p><strong>Status:</strong> 🚧 In Progress</p>
@@ -124,14 +125,17 @@
     <img src="https://skillicons.dev/icons?i=aws,python,mongodb,postgresql,mysql,redis,docker,kubernetes,jenkins,git,github,vscode,pycharm,kafka," /><br>
 </div>
 
+<br>
+<br>
+<hr>
+<h3 align="center" style="color:#bb05f2ff; font-size:24px;">
+    Thanks for visiting my profile!  
+</h3>
 
+<br>
 <br>
 <div align="center">
 <a href='https://ko-fi.com/Ritik-Nagpure' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<br>
 
-<h3 align="center" style="color:#bb05f2ff; font-size:24px;">
-    Thanks for visiting my profile!  
-</h3>
