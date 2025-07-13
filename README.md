@@ -5,12 +5,13 @@
 <br>
 
 <h1 align="center" style="margin:2px; padding: 5px; overflow:True">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=40&duration=4000&color=AF36F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=HI+!+%F0%9F%91%8B+I'm+Ritik+Nagpure;Welcome+To+my+Profile." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=40&duration=4000&color=AF36F7&center=true&vCenter=true&multiline=false&width=600&height=100&lines=HI+!+%F0%9F%91%8B+I'm+Ritik+Nagpure;Welcome+To+my+Profile." alt="Typing SVG" /></a>
 </h1>
+<br>
 
-<h3 align="center">
+<h2 align="center">
     A passionate software developer from India
-</h3>
+</h2>
 
 
 <div align="center">
@@ -95,10 +96,9 @@
   <br>
   <img alt="snake eating my contributions" src="./dist/snake.svg" />
   
-  <br/><br/><br/>
+  <br><br>
 </div>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -123,16 +123,17 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,javascript,typescript,react,next,redux,nodejs,express,tensorflow,d3,threejs" />
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,python,mongodb,postgresql,mysql,redis,docker,kubernetes,jenkins,git,github,vscode,pycharm,kafka," /><br>
+    <img src="https://skillicons.dev/icons?i=aws,python,mongodb,postgresql,mysql,redis,docker,kubernetes,jenkins,git,github,vscode,pycharm,kafka," /><br>
 </div>
 
 
 <br>
 <div align="center">
-<a href='https://ko-fi.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/Ritik-Nagpure' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<br/>
+<br>
+
 <h3 align="center" style="color:#bb05f2ff; font-size:24px;">
     Thanks for visiting my profile!  
 </h3>
