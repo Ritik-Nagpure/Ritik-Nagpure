@@ -4,9 +4,9 @@
 
 <br>
 
-<h1 align="center" style="margin:2px, padding: 10px, overflow:True">
+<h1 align="center" style="margin:2px; padding: 5px; overflow:True">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=30&duration=1000&pause=4000&color=AF36F7&center=true&vCenter=true&width=435&lines=Hi+!+%F0%9F%91%8B+Welcome+To+my+Profile.;I'm+Ritik+Nagpure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=30&duration=1000&pause=4000&color=AF36F7&center=true&width=435&lines=Hi+!+%F0%9F%91%8B+Welcome+To+my+Profile.;I'm+Ritik+Nagpure" alt="Typing SVG" />
     </a>
 </h1>
 
@@ -35,19 +35,19 @@ A passionate software developer from India</h3>
  <br>
 <div align="center"> 
   <a href="mailto:ritiknagpure@gmail.com">
-    <img src="./contact-icon/gmail.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px"/>
+    <img src="./contact-icon/gmail.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;    padding: 1px"/>
   </a>
   <a href="https://www.linkedin.com/in/ritik-nagpure-2677151a1/" target="_blank">
-    <img src="./contact-icon/linkedin.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px">
+    <img src="./contact-icon/linkedin.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;    padding: 1px">
   </a>
   <a href="https://x.com/PseudoRick" target="_blank">
-     <img src="./contact-icon/x.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px" /> 
+     <img src="./contact-icon/x.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;    padding: 1px" /> 
   </a>
 <a href="https://www.instagram.com/quanto__" target="_blank">
-    <img src="./contact-icon/instagram.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px" />
+    <img src="./contact-icon/instagram.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;    padding: 1px" />
   </a>
 <a href="https://ritik-nagpure.github.io/Portfolio/" target="_blank">
-    <img src="./contact-icon/portfolio.png" target="_blank" style="width:45px,    height:45px;    margin: 2px,    padding: 1px" />
+    <img src="./contact-icon/portfolio.png" target="_blank" style="width:45px;    height:45px;    margin: 2px;padding: 1px" />
   </a>
 </div>
 
