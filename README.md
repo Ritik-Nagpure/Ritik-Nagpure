@@ -119,10 +119,10 @@
 <br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,javascript,typescript,react,next,redux,nodejs,express,tensorflow,d3,threejs" />
-    <img src="https://skillicons.dev/icons?i=aws,python,mongodb,postgresql,mysql,redis,docker,kubernetes,jenkins,git,github,vscode,pycharm,kafka," /><br>
+    <img src="https://skillicons.dev/icons?i=aws,python,mongodb,postgresql,mysql,redis,docker,kubernetes,jenkins,git,github,vscode,pycharm,kafka," />
 </div>
 
 <br>
