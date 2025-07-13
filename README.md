@@ -58,37 +58,32 @@
 
 
 <h2 align="center"> 📝 Featured Projects  </h2>
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap">
-<div style="height:300px; width:250px; background:#333333; border-radius:30px; padding:20px; margin:4px;">
-    <blocksection  align="center" style=" ">
-        <h3>Vastrum</h3>
-        <p>One stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
-        <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
-        <p><strong>Status:</strong> 🚧 In Progress</p>
-        <a href="https://github.com/yourusername/Vastrum" target="_blank">🔗 View Repository</a>
-    </blocksection>
-</div>
-<div style="height:300px; width:250px; background:#333333; border-radius:30px; padding:20px; margin:4px;">
-    <blocksection  align="center" style=" ">
-        <h3>Arya</h3>
-        <p>An Ai tool with multiple usage like chat, analyze and keep track on tasks behind the back</p>
-        <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
-        <p><strong>Status:</strong> 🚧 In Progress</p>
-        <a href="https://github.com/yourusername/Arya" target="_blank">🔗 View Repository</a>
-    </blocksection>
-</div>
-<div style="height:300px; width:250px; background:#333333; border-radius:30px; padding:20px; margin:4px;">
-    <blocksection  align="center" style=" ">
-        <h3>Sarvum</h3>
-        <p>Complete solution to eveyday task. An handy tool to update and analyze every aspect of task,</p>
-        <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
-        <p><strong>Status:</strong> 🚧 In Progress</p>
-        <a href="https://github.com/yourusername/Sarvum" target="_blank">🔗 View Repository</a>
-    </blocksection>
-</div>
-</div> 
-</div> 
 
+<table>
+  <tr>
+    <td align="center" width="250" height="300">
+      <h2>🚀 Vastrum</h2>
+      <p>One stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
+      <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
+      <p><strong>Status:</strong> 🚧 In Progress</p>
+      <a href="https://github.com/Ritik-Nagpure/Vastrum" target="_blank">🔗 View Repository</a>
+    </td>
+    <td align="center" width="250">
+      <h2>🧠 Arya</h2>
+      <p>An AI tool with multiple usage like chat, analyze and keep track on tasks behind the back.</p>
+      <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
+      <p><strong>Status:</strong> 🚧 In Progress</p>
+      <a href="https://github.com/Ritik-Nagpure/Arya" target="_blank">🔗 View Repository</a>
+    </td>
+    <td align="center" width="250">
+      <h2>🛠️ Sarvum</h2>
+      <p>Complete solution to everyday tasks. A handy tool to update and analyze every aspect of task.</p>
+      <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
+      <p><strong>Status:</strong> 🚧 In Progress</p>
+      <a href="https://github.com/Ritik-Nagpure/Sarvum" target="_blank">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -98,7 +93,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritik-Nagpure/Ritik-Nagpure/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
