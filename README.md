@@ -108,15 +108,13 @@
 <br>
 <br>
   <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ritik-Nagpure&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=30" alt="readme stats" />
-
+<br>
 <br>
   <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ritik-Nagpure&hide=HTML&langs_count=8&layout=compact&theme=jolly&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br>
 <br>
-
-
 <br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
