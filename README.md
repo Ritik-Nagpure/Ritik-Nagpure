@@ -53,11 +53,36 @@
   </a>
 </div>
 
-<hr/>
- 
 
-<br/>
-<hr/>
+<hr>
+
+<div align="center"> 
+    <h2> 📝 Featured Projects  </h2>
+- [Vastrum](https://github.com/Ritik-Nagpure/Vastrum) - E-commerce platform  
+- [Arya](https://github.com/Ritik-Nagpure/Arya) - AI Assistant  
+
+<div align="center" style="height:300px; width:250px; background: url('./Banner/logo.png')">
+  <img  alt="Project Banner" />
+
+  <h3>Vastrum</h3>
+
+  <p>A stop solution changing trendy Fashion. A full stack e-commerce platform targeting Fashion Industry.</p>
+
+  <p><strong>Tech Stack:</strong> React • Postgre • JavaScript • Node</p>
+
+  <p><strong>Status:</strong> 🚧 In Progress</p>
+
+  <a href="https://github.com/yourusername/Vastrum" target="_blank">🔗 View Repository</a>
+
+</div>
+
+
+</div>
+
+<hr>
+
+
+<br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -78,17 +103,8 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ritik-Nagpure&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
-
-<hr>
-
-### 📂 Featured Projects  
-- [Vastrum](https://github.com/Ritik-Nagpure/Vastrum) - E-commerce platform  
-- [Arya](https://github.com/Ritik-Nagpure/Arya) - AI Assistant  
-
-
-<hr>
+<br>
+<br>
 
 
 <br>
@@ -107,16 +123,6 @@
 </div>
 
 <br/>
-<p align="center" style="color:#bb05f2ff; font-size:24px;">
-Thanks for visiting my profile!  
-</p>
-
-
-<style>
-.bg{
-    color: #bb05f2ff
-}
-.contact-logo{
-    "width:45px,    height:45px;    margin: 2px,    padding: 1px"
-}
-</style>
+<h3 align="center" style="color:#bb05f2ff; font-size:24px;">
+    Thanks for visiting my profile!  
+</h3>
