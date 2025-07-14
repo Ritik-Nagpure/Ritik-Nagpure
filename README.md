@@ -91,7 +91,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="./dist/snake.svg" />
+  <img alt="snake eating my contributions" src="./profile-3d-contrib/profile-night-green.svg" />
   
   <br><br>
 </div>
