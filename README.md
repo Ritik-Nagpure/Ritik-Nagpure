@@ -13,8 +13,8 @@
 
 <div align="center">
     <p>🔭 I’m currently working on <b>A Marketplace Application</b></p>
-    <p>🌱 I’m currently learning <b>Docker, Three JS, AWS</b></p>
-    <p>🚀 Building scalable web apps using <b>PERN Stack</b> </p>
+    <p>🌱 I’m currently learning <b>Docker, K8, Three JS, AWS</b></p>
+    <p>🚀 Building scalable web apps using <b>PERN and MERN Stack</b> </p>
     <p>🐍 Experienced with Python scripting & Data Automation  </p>
 </div>
 
