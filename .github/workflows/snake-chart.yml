@@ -1,0 +1,37 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Generate the snake files in './snake/'
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit snake files to main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add snake/
+          if git commit -m "Update snake animations"; then
+            git push origin main
+          fi
