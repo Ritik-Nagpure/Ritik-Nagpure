@@ -93,7 +93,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="./profile-3d-contrib/profile-night-green.svg" />
-  <img alt="snake eating my contributions" src="./snake/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="./snake/github-contribution-grid-snake-dark.svg" />
   
   <br><br>
 </div>
